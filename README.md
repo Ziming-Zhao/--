@@ -2,4 +2,4 @@
 
 Some notes that I learned or downloaded from the internet
 
-Open the .xmind files by using ![image-20220907132102784](C:\Users\34090\AppData\Roaming\Typora\typora-user-images\image-20220907132102784.png)
+Open the .xmind files by using ![image-20220907132102784](https://github.com/Ziming-Zhao/Notes-Collections/blob/master/pictures/Xmind.png)
